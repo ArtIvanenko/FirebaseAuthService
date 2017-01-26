@@ -1,2 +1,2 @@
 # FirebaseAuthService
-<strong>This service allow authenticate users in app through git, google, facebook profile</strong>
+<strong>This service allow authenticate users in app through git, google, facebook profiles (if the app using firebase DB)</strong>
